@@ -2,8 +2,9 @@ Embarcatech
 
 Tarefa da aula sincronado dia 27/01/2025
 
-Aluno: Fábio Rocha Gomes Jardim
-Matrícula: TIC370100723
+Aluno: Fábio Rocha Gomes Jardim  
+
+Matrícula: TIC370100723  
 
 ## Vídeo    
 
